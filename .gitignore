@@ -1,0 +1,7 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+data/ccleData.RData
+data/Cell_line_RMA_proc_basalExp.txt
+data/cgp2016ExprRma.RData
